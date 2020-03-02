@@ -1,6 +1,0 @@
-srednie wynagrodzenie pracownikow : 5300
-minimalne wynagrodzenie pracownikow : 4800
-maksymalne wynagrodzenie pracownikow : 6000
-liczba osob w : Management to 1
-liczba osob w : it to 2
-liczba osob w : Support to 1
