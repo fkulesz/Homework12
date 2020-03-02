@@ -1,0 +1,4 @@
+PL;Polska;38000000
+DE;Niemcy;12321322
+NL;Holandia;999999
+CN;Chiny;3433333
